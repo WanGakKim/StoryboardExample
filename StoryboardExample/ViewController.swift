@@ -13,8 +13,15 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+        
+        DispatchQueue.main.async {
+            Thread.sleep(until: Date(timeIntervalSince1970: 3))
+            
+            self.performSegue(withIdentifier: "MainNavigationController", sender: self)
+        }
     }
-
+    
 
 }
 
