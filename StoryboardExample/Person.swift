@@ -10,6 +10,6 @@ import Foundation
 import UIKit
 struct Person {
     var image : UIImage?
-    var name : String
+    var title : String
     var content : String
 }

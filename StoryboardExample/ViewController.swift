@@ -17,11 +17,17 @@ class ViewController: UIViewController {
         
         DispatchQueue.main.async {
             Thread.sleep(until: Date(timeIntervalSince1970: 3))
-            
-            self.performSegue(withIdentifier: "MainNavigationController", sender: self)
+            self.showTabBarController(self)
         }
     }
     
 
+    @IBAction func showTabBarController(_ sender : Any){
+        self.performSegue(withIdentifier: "TabBarController", sender: sender)
+    }
+    
+    @IBAction func unwindViewController(_ segue : UIStoryboardSegue){
+        print("unwind Intro!")
+    }
 }
 
