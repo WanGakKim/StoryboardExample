@@ -10,7 +10,7 @@
         <!--Sub_2 Main-->
         <scene sceneID="abg-t0-Lz5">
             <objects>
-                <viewController title="Sub_2 Main" id="xa5-8d-6cI" customClass="Sub2ViewController" customModule="StoryboardExample" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Sub_2 Main" id="xa5-8d-6cI" customClass="Sub_2ViewController" customModule="StoryboardExample" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Tig-j7-YCB">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

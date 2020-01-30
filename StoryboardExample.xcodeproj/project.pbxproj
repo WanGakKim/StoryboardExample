@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2E6C3D5E23E3438000E873C4 /* Sub2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E6C3D5D23E3438000E873C4 /* Sub2ViewController.swift */; };
+		2E6C3D5E23E3438000E873C4 /* Sub_2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E6C3D5D23E3438000E873C4 /* Sub_2ViewController.swift */; };
 		2E730B1423DF2E5F00D99FE8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E730B1323DF2E5F00D99FE8 /* AppDelegate.swift */; };
 		2E730B1623DF2E5F00D99FE8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E730B1523DF2E5F00D99FE8 /* SceneDelegate.swift */; };
 		2E730B1823DF2E5F00D99FE8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E730B1723DF2E5F00D99FE8 /* ViewController.swift */; };
@@ -42,7 +42,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2E6C3D5D23E3438000E873C4 /* Sub2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sub2ViewController.swift; sourceTree = "<group>"; };
+		2E6C3D5D23E3438000E873C4 /* Sub_2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sub_2ViewController.swift; sourceTree = "<group>"; };
 		2E730B1023DF2E5F00D99FE8 /* StoryboardExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StoryboardExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E730B1323DF2E5F00D99FE8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2E730B1523DF2E5F00D99FE8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -93,7 +93,7 @@
 		2E6C3D5C23E3437100E873C4 /* Sub_2 */ = {
 			isa = PBXGroup;
 			children = (
-				2E6C3D5D23E3438000E873C4 /* Sub2ViewController.swift */,
+				2E6C3D5D23E3438000E873C4 /* Sub_2ViewController.swift */,
 			);
 			path = Sub_2;
 			sourceTree = "<group>";
@@ -304,7 +304,7 @@
 				2E730B4E23DF46EA00D99FE8 /* PersonTableViewController.swift in Sources */,
 				2E730B1423DF2E5F00D99FE8 /* AppDelegate.swift in Sources */,
 				2E730B1623DF2E5F00D99FE8 /* SceneDelegate.swift in Sources */,
-				2E6C3D5E23E3438000E873C4 /* Sub2ViewController.swift in Sources */,
+				2E6C3D5E23E3438000E873C4 /* Sub_2ViewController.swift in Sources */,
 				2E730B1E23DF2E5F00D99FE8 /* StoryboardExample.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
